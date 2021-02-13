@@ -25,16 +25,16 @@ main {
 }
 
 input[type="submit"] {
-	color: #fff;
+	color: rgb(30, 73, 192);
 }
 
 button {
 	margin: 25px 0;
-	color: #fff;
+	color: rgb(207, 41, 41);
 }
 
 p {
-	background-color: #fff;
+	background-color: rgb(201, 42, 42);
 	padding: 15px;
 	border-radius: 5px;
 	color: #007bff;
